@@ -1,6 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
+class has:
+1. properties(data)
+2. methods(function)
+
+-class is the blueprint of an object
+-object is a blueprint on a class
+*/
+
 //class defination
 
 class Student{
